@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GASSER</Machine>
+    <WindowsUser>Gasser</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>65f2ccdb-5f43-4e94-b0ee-961007943074</PackageIdentityName>
+    <IntermediateOutputPath>W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Islam False.WindowsPhone.exe">
+      <PackagePath>Islam False.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\BackgroundTasks\bin\Debug\BackgroundTasks.winmd">
+      <PackagePath>BackgroundTasks.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\1.png">
+      <PackagePath>Assets\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\About background.png">
+      <PackagePath>Assets\About background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\about\Assembly 5-1.png">
+      <PackagePath>Assets\about\Assembly 5-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\about\FBL.png">
+      <PackagePath>Assets\about\FBL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\about\Logo Icon 1.png">
+      <PackagePath>Assets\about\Logo Icon 1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\about\Logo Icon2.png">
+      <PackagePath>Assets\about\Logo Icon2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\about\TL.png">
+      <PackagePath>Assets\about\TL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\ali.png">
+      <PackagePath>Assets\ali.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\bible5.png">
+      <PackagePath>Assets\bible5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\brd.png">
+      <PackagePath>Assets\brd.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\children.png">
+      <PackagePath>Assets\children.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\clenched.png">
+      <PackagePath>Assets\clenched.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\dv.png">
+      <PackagePath>Assets\dv.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\famousMuslims.png">
+      <PackagePath>Assets\famousMuslims.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\female179.png">
+      <PackagePath>Assets\female179.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\Islamic_3-512.png">
+      <PackagePath>Assets\Islamic_3-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\jabbar.png">
+      <PackagePath>Assets\jabbar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\kids1.png">
+      <PackagePath>Assets\kids1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\man64.png">
+      <PackagePath>Assets\man64.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\ng.png">
+      <PackagePath>Assets\ng.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\on.png">
+      <PackagePath>Assets\on.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\oz.png">
+      <PackagePath>Assets\oz.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\ozl.png">
+      <PackagePath>Assets\ozl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\pink3.png">
+      <PackagePath>Assets\pink3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\quotes.png">
+      <PackagePath>Assets\quotes.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\r.png">
+      <PackagePath>Assets\r.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\rio2.png">
+      <PackagePath>Assets\rio2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\salah.png">
+      <PackagePath>Assets\salah.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\sdt.png">
+      <PackagePath>Assets\sdt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\swords8.png">
+      <PackagePath>Assets\swords8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\terrorist.png">
+      <PackagePath>Assets\terrorist.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\trueFacts.png">
+      <PackagePath>Assets\trueFacts.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\wrongFacts.png">
+      <PackagePath>Assets\wrongFacts.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\x.png">
+      <PackagePath>Assets\x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\zwl.png">
+      <PackagePath>Assets\zwl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\blue.jpg">
+      <PackagePath>Assets\blue.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\green.jpg">
+      <PackagePath>Assets\green.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\pink.jpg">
+      <PackagePath>Assets\pink.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\yellow.jpg">
+      <PackagePath>Assets\yellow.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\Fonts\buka_puasa_bersama_5.ttf">
+      <PackagePath>Assets\Fonts\buka_puasa_bersama_5.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Assets\Fonts\Gabriola.ttf">
+      <PackagePath>Assets\Fonts\Gabriola.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\about_page.xbf">
+      <PackagePath>about_page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Amazing Facts.xbf">
+      <PackagePath>Amazing Facts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Fact Correction.xbf">
+      <PackagePath>Fact Correction.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Famous Muslims.xbf">
+      <PackagePath>Famous Muslims.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Quotes.xbf">
+      <PackagePath>Quotes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Wrong Facts.xbf">
+      <PackagePath>Wrong Facts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Islam False.WindowsPhone.xr.xml">
+      <PackagePath>Islam False.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

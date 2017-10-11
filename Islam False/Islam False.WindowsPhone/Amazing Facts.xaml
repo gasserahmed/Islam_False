@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="Islam_False.Amazing_Facts"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Islam_False"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    >
+    <Page.Background>
+        <ImageBrush ImageSource="Assets/blue.jpg"/>
+    </Page.Background>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock FontFamily="/Assets/Fonts/buka_puasa_bersama_5.ttf#Buka Puasa Bersama" Text="Interesting Facts" FontSize="45" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Viewbox Stretch="Uniform">
+                <FlipView  x:Name="FactsFlipView"  Height="600"    >
+                    <FlipView.ItemTemplate>
+                        <DataTemplate>
+                            <ScrollViewer>
+                            <TextBlock  TextWrapping="Wrap" TextAlignment="Center" FontSize="40" FontFamily="/Assets/Fonts/Gabriola.ttf#Gabriola One"  Text="{Binding factText}" Foreground="#FFFFFF" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </ScrollViewer>
+                        </DataTemplate>
+                    </FlipView.ItemTemplate>
+                </FlipView>
+            </Viewbox>
+        </Grid>
+    </Grid>
+</Page>

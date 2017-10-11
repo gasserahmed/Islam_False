@@ -1,0 +1,4 @@
+MainPackage=W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Release\Islam False.Windows_1.1.0.19_Bundle\Islam False.Windows_1.1.0.19_AnyCPU.appx
+SymbolPackage=W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\AppPackages\Islam False.Windows_1.1.0.19_Test\Islam False.Windows_1.1.0.19_AnyCPU.appxsym
+ResourcePack=W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Release\Islam False.Windows_1.1.0.19_Bundle\Islam False.Windows_1.1.0.19_scale-140.appx
+ResourcePack=W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Release\Islam False.Windows_1.1.0.19_Bundle\Islam False.Windows_1.1.0.19_scale-180.appx

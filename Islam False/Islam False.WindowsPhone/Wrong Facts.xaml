@@ -1,0 +1,156 @@
+﻿<Page
+    x:Class="Islam_False.Wrong_Facts"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Islam_False"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    >
+    <Page.Background>
+        <ImageBrush ImageSource="Assets/pink.jpg"/>
+    </Page.Background>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock FontFamily="/Assets/Fonts/buka_puasa_bersama_5.ttf#Buka Puasa Bersama" Text="False Facts" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Viewbox VerticalAlignment="Top" HorizontalAlignment="Center" Stretch="Uniform" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="0.05*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="0.05*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="0.05*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="0.05*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="0.05*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <GridView Tapped="Terrorists" ScrollViewer.VerticalScrollMode="Disabled"    Grid.Row="0" Grid.Column="0"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None" Grid.ColumnSpan="27" >
+                        <Grid Width="147" Height="270">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image Source="/Assets/terrorist.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"  />
+                            <TextBlock Grid.Row="1" FontSize="32" TextAlignment="Center" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Islamic Terrorism" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </GridView>
+                    <GridView Tapped="Sword" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="0"  Grid.Column="2"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                        <Grid Width="147" Height="270">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image Source="/Assets/swords8.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"  />
+                            <TextBlock Grid.Row="1" FontSize="32" TextAlignment="Center" TextWrapping="Wrap" FontWeight="ExtraLight"  Text="By the Sword" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </GridView>
+                    <GridView Tapped="Women" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="0"   Grid.Column="4" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                        <Grid Width="147" Height="270">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image Source="/Assets/female179.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" />
+                            <TextBlock Grid.Row="1" FontSize="32" TextWrapping="Wrap" FontWeight="ExtraLight" TextAlignment="Center" Text="Women's Rights" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </GridView>
+                    <GridView  Tapped="Savages" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="0"  Grid.Column="6"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                        <Grid Width="147" Height="270">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image  Source="/Assets/man64.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"/>
+                            <TextBlock Grid.Row="1" FontSize="32" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Muslim Savages" TextAlignment="Center" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </GridView>
+                    <GridView  Tapped="Bride" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="2"  Grid.Column="0"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                        <Grid Width="147" Height="270">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image  Source="/Assets/children.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"/>
+                            <TextBlock Grid.Row="1" FontSize="32" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Child Bride" TextAlignment="Center" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </GridView>
+                    <GridView  Tapped="Jihad" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="2"  Grid.Column="2"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                        <Grid Width="147" Height="270">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image  Source="/Assets/clenched.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"/>
+                            <TextBlock Grid.Row="1" FontSize="32" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Islamic Jihad" TextAlignment="Center" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </GridView>
+                    <GridView  Tapped="Religion" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="2"  Grid.Column="4"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                        <Grid Width="149" Height="270">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image  Source="/Assets/bible5.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"/>
+                            <TextBlock Grid.Row="1" FontSize="32" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Religious Intolerance" TextAlignment="Center" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </GridView>
+                    <GridView  Tapped="Children" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="2"  Grid.Column="6"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                        <Grid Width="147" Height="270">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image  Source="/Assets/kids1.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"/>
+                            <TextBlock Grid.Row="1" FontSize="32" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Children's Rights" TextAlignment="Center" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </GridView>
+                    <GridView  Tapped="Jesus" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="4"  Grid.Column="2"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                        <Grid Width="147" Height="270">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image  Source="/Assets/rio2.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"/>
+                            <TextBlock Grid.Row="1" FontSize="32" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Muslims and Jesus" TextAlignment="Center" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </GridView>
+                    <GridView  Tapped="Arabs" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="4"  Grid.Column="4"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                        <Grid Width="147" Height="270">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Image  Source="/Assets/Islamic_3-512.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"/>
+                            <TextBlock Grid.Row="1" FontSize="32" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Muslims are Arabs" TextAlignment="Center" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </GridView>
+                </Grid>
+            </Viewbox>
+        </Grid>
+    </Grid>
+</Page>

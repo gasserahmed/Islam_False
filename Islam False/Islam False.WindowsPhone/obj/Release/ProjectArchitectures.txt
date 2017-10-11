@@ -1,0 +1,2 @@
+W:\Microsoft\Applictaions\Islam False\BackgroundTasks\BackgroundTasks.csproj;neutral
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\Islam False.WindowsPhone.csproj;neutral

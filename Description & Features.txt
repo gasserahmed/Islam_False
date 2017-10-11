@@ -1,0 +1,14 @@
+Description
+------------
+Islam False is an application that guides people to the true meaning of the religion of Islam and corrects the false facts against Islam.
+It also provides the user with some interesting facts and quotes about Islam.  
+  
+
+Features
+---------
+-False Islamic Facts
+-Interesting Islamic Facts
+-Famous Islamic Figures
+-Quotes
+-Live Tiles for Islamic Sayings
+-Elegant UI

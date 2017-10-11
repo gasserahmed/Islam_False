@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="Islam_False.Fact_Correction"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Islam_False"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    >
+    <Page.Background>
+        <ImageBrush ImageSource="Assets/pink3.png"/>
+    </Page.Background>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock FontFamily="/Assets/Fonts/buka_puasa_bersama_5.ttf#Buka Puasa Bersama" Text="False Fact:" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock FontSize="30" x:Name="pageTitle" FontFamily="/Assets/Fonts/buka_puasa_bersama_5.ttf#Buka Puasa Bersama" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Viewbox Stretch="Uniform">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" x:Name="characterImage" Width="120" Height="100"  HorizontalAlignment="Center" VerticalAlignment="Top" />
+                    <ScrollViewer Grid.Column="1" Width="850" ScrollViewer.VerticalScrollBarVisibility="Auto">
+                            <TextBlock   TextWrapping="Wrap" x:Name="Correction" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="40" FontWeight="ExtraLight" />
+                        </ScrollViewer>
+                </Grid>
+            </Viewbox>
+        </Grid>
+    </Grid>
+</Page>
+

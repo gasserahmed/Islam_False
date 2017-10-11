@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="47309GasserMontaser.IslamFalse" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="about_page.xbf" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/about_page.xbf">
+				<Candidate type="Path">
+					<Value>about_page.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Amazing Facts.xbf" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Amazing%20Facts.xbf">
+				<Candidate type="Path">
+					<Value>Amazing Facts.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Fact Correction.xbf" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Fact%20Correction.xbf">
+				<Candidate type="Path">
+					<Value>Fact Correction.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Famous Muslims.xbf" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Famous%20Muslims.xbf">
+				<Candidate type="Path">
+					<Value>Famous Muslims.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Islam False.WindowsPhone.xr.xml" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Islam%20False.WindowsPhone.xr.xml">
+				<Candidate type="Path">
+					<Value>Islam False.WindowsPhone.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Quotes.xbf" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Quotes.xbf">
+				<Candidate type="Path">
+					<Value>Quotes.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Wrong Facts.xbf" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Wrong%20Facts.xbf">
+				<Candidate type="Path">
+					<Value>Wrong Facts.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="1.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/1.png">
+					<Candidate type="Path">
+						<Value>Assets\1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="About background.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/About%20background.png">
+					<Candidate type="Path">
+						<Value>Assets\About background.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ali.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/ali.png">
+					<Candidate type="Path">
+						<Value>Assets\ali.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/BadgeLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\BadgeLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bible5.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/bible5.png">
+					<Candidate type="Path">
+						<Value>Assets\bible5.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="blue.jpg" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/blue.jpg">
+					<Candidate type="Path">
+						<Value>Assets\blue.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="brd.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/brd.png">
+					<Candidate type="Path">
+						<Value>Assets\brd.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="children.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/children.png">
+					<Candidate type="Path">
+						<Value>Assets\children.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="clenched.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/clenched.png">
+					<Candidate type="Path">
+						<Value>Assets\clenched.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="dv.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/dv.png">
+					<Candidate type="Path">
+						<Value>Assets\dv.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="famousMuslims.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/famousMuslims.png">
+					<Candidate type="Path">
+						<Value>Assets\famousMuslims.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="female179.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/female179.png">
+					<Candidate type="Path">
+						<Value>Assets\female179.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="green.jpg" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/green.jpg">
+					<Candidate type="Path">
+						<Value>Assets\green.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Islamic_3-512.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/Islamic_3-512.png">
+					<Candidate type="Path">
+						<Value>Assets\Islamic_3-512.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jabbar.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/jabbar.png">
+					<Candidate type="Path">
+						<Value>Assets\jabbar.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="kids1.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/kids1.png">
+					<Candidate type="Path">
+						<Value>Assets\kids1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="man64.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/man64.png">
+					<Candidate type="Path">
+						<Value>Assets\man64.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ng.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/ng.png">
+					<Candidate type="Path">
+						<Value>Assets\ng.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="on.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/on.png">
+					<Candidate type="Path">
+						<Value>Assets\on.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="oz.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/oz.png">
+					<Candidate type="Path">
+						<Value>Assets\oz.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ozl.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/ozl.png">
+					<Candidate type="Path">
+						<Value>Assets\ozl.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pink.jpg" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/pink.jpg">
+					<Candidate type="Path">
+						<Value>Assets\pink.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pink3.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/pink3.png">
+					<Candidate type="Path">
+						<Value>Assets\pink3.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="quotes.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/quotes.png">
+					<Candidate type="Path">
+						<Value>Assets\quotes.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="r.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/r.png">
+					<Candidate type="Path">
+						<Value>Assets\r.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="rio2.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/rio2.png">
+					<Candidate type="Path">
+						<Value>Assets\rio2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="salah.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/salah.png">
+					<Candidate type="Path">
+						<Value>Assets\salah.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sdt.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/sdt.png">
+					<Candidate type="Path">
+						<Value>Assets\sdt.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="swords8.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/swords8.png">
+					<Candidate type="Path">
+						<Value>Assets\swords8.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="terrorist.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/terrorist.png">
+					<Candidate type="Path">
+						<Value>Assets\terrorist.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="trueFacts.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/trueFacts.png">
+					<Candidate type="Path">
+						<Value>Assets\trueFacts.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wrongFacts.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/wrongFacts.png">
+					<Candidate type="Path">
+						<Value>Assets\wrongFacts.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="x.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/x.png">
+					<Candidate type="Path">
+						<Value>Assets\x.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yellow.jpg" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/yellow.jpg">
+					<Candidate type="Path">
+						<Value>Assets\yellow.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zwl.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/zwl.png">
+					<Candidate type="Path">
+						<Value>Assets\zwl.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="about">
+					<NamedResource name="Assembly 5-1.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/about/Assembly%205-1.png">
+						<Candidate type="Path">
+							<Value>Assets\about\Assembly 5-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FBL.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/about/FBL.png">
+						<Candidate type="Path">
+							<Value>Assets\about\FBL.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon 1.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/about/Logo%20Icon%201.png">
+						<Candidate type="Path">
+							<Value>Assets\about\Logo Icon 1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon2.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/about/Logo%20Icon2.png">
+						<Candidate type="Path">
+							<Value>Assets\about\Logo Icon2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TL.png" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/about/TL.png">
+						<Candidate type="Path">
+							<Value>Assets\about\TL.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Fonts">
+					<NamedResource name="buka_puasa_bersama_5.ttf" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/Fonts/buka_puasa_bersama_5.ttf">
+						<Candidate type="Path">
+							<Value>Assets\Fonts\buka_puasa_bersama_5.ttf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Gabriola.ttf" uri="ms-resource://47309GasserMontaser.IslamFalse/Files/Assets/Fonts/Gabriola.ttf">
+						<Candidate type="Path">
+							<Value>Assets\Fonts\Gabriola.ttf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

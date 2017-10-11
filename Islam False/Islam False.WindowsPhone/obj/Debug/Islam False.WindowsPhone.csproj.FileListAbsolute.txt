@@ -1,0 +1,66 @@
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Islam False.WindowsPhone.csprojResolveAssemblyReference.cache
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\App.g.i.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\App.g.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\about_page.g.i.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\about_page.g.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\MainPage.g.i.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\MainPage.g.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\App.xaml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\about_page.xaml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\App.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\about_page.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\MainPage.xaml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\MainPage.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\App.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\about_page.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\MainPage.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Islam False.WindowsPhone.xr.xml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Islam False.WindowsPhone.exe
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Islam False.WindowsPhone.pdb
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\resources.pri
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\AppxManifest.xml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Islam False.WindowsPhone.build.appxrecipe
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\BackgroundTasks.winmd
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\BackgroundTasks.pdb
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\BackgroundTasks.pri
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Islam False.WindowsPhone.exe
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Islam False.WindowsPhone.pdb
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\priconfig.xml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\layout.resfiles
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\resources.resfiles
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\pri.resfiles
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\qualifiers.txt
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Amazing Facts.g.i.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Amazing Facts.g.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Wrong Facts.g.i.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Wrong Facts.g.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Amazing Facts.xaml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Wrong Facts.xaml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Amazing Facts.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Wrong Facts.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Famous Muslims.g.i.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Famous Muslims.g.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Famous Muslims.xaml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Famous Muslims.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Quotes.g.i.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Quotes.g.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Quotes.xaml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Quotes.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Amazing Facts.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Famous Muslims.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Quotes.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Wrong Facts.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\bin\Debug\Fact Correction.xbf
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Fact Correction.g.i.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Fact Correction.g.cs
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Fact Correction.xaml
+W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.WindowsPhone\obj\Debug\Fact Correction.xbf

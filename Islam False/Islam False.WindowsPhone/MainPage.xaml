@@ -1,0 +1,148 @@
+﻿<Page
+    x:Class="Islam_False.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Islam_False"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar Background="#4d4d4d">
+            <AppBarButton Label="about"
+                          Click="AppBarButton_Click">
+                <AppBarButton.Icon>
+                    <FontIcon Glyph="i"
+                              FontSize="30"
+                              FontFamily="Segoe WP Black" />
+                </AppBarButton.Icon>
+            </AppBarButton>
+            <AppBarButton Icon="LikeDislike"
+                          Label="rate it"
+                          Click="AppBarButton_Click_1" />
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="assets/1.png"/>
+        </Grid.Background>
+        <Viewbox VerticalAlignment="Top" Stretch="Uniform" Width="400" Grid.Row="0"  >
+            <Grid Height="770" Width="750" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="0.2*"/>
+                    <ColumnDefinition Width="0.05*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Line Stretch="Fill"  Stroke="Black" X1="0"  Y2="100" Grid.Column="7" Grid.RowSpan="6"/>
+                <Line Stretch="Fill"  Stroke="Black" X1="0"  Y2="100" Grid.Column="18" Grid.RowSpan="5"/>
+                <Line Stretch="Fill"  Stroke="Black" X1="0"  Y2="100" Grid.Column="26" Grid.RowSpan="7"/>
+                <Line Stretch="Fill"  Stroke="Black" X1="0"  Y2="100" Grid.Column="52" Grid.RowSpan="5"/>
+                <GridView Tapped="wrongFacts" ScrollViewer.VerticalScrollMode="Disabled"   Grid.RowSpan="4" Grid.Row="6" Grid.Column="14"  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None" Grid.ColumnSpan="27" >
+                    <Grid Width="155" Height="270">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="6.3*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Image Source="/Assets/wrongfacts.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"  />
+                        <TextBlock FontFamily="/Assets/Fonts/buka_puasa_bersama_5.ttf#Buka Puasa Bersama" Grid.Row="1" FontSize="38" TextAlignment="Center" TextWrapping="Wrap" FontWeight="ExtraLight" Text="False Facts" VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+                    </Grid>
+                </GridView>
+                <GridView Tapped="amazingFacts" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="4" Grid.RowSpan="4" Grid.Column="45" Grid.ColumnSpan="32" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                    <Grid Width="236" Height="250">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="5*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Image Source="/Assets/trueFacts.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False"  />
+                        <TextBlock Grid.Row="1" FontSize="39" FontFamily="/Assets/Fonts/buka_puasa_bersama_5.ttf#Buka Puasa Bersama" TextAlignment="Center" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Interesting Facts" VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+                    </Grid>
+                </GridView>
+                <GridView Tapped="famousMuslims" ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="5" Grid.RowSpan="4" Grid.ColumnSpan="12" Grid.Column="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                    <Grid Width="227" Height="255">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="5.5*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Image Source="/Assets/famousMuslims.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" />
+                        <TextBlock Grid.Row="1" FontSize="36" FontFamily="/Assets/Fonts/buka_puasa_bersama_5.ttf#Buka Puasa Bersama" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Famous Muslims" VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+                    </Grid>
+                </GridView>
+                <GridView  ScrollViewer.VerticalScrollMode="Disabled"  Grid.Row="3" Grid.RowSpan="3" Grid.Column="12" Grid.ColumnSpan="12" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="None">
+                    <Grid Width="127" Height="210">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="4*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Image  Source="/Assets/quotes.png"  IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" Tapped="quotes"/>
+                        <TextBlock Grid.Row="1" FontSize="40" FontFamily="/Assets/Fonts/buka_puasa_bersama_5.ttf#Buka Puasa Bersama" TextWrapping="Wrap" FontWeight="ExtraLight" Text="Quotes" VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+                    </Grid>
+                </GridView>
+            </Grid>
+        </Viewbox>
+    </Grid>
+</Page>

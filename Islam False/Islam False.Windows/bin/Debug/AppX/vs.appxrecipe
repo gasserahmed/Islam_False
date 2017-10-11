@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GASSER</Machine>
+    <WindowsUser>Gasser</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>47309GasserMontaser.IslamFalse</PackageIdentityName>
+    <IntermediateOutputPath>W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D76F35B8E6B46050E00FD889ADFD74AFDFE94398E04D5ED57E182614C0FDEDF3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>47309GasserMontaser.IslamFalse_1.1.0.19_neutral__884zvdbemjk66</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>47309GasserMontaser.IslamFalse_884zvdbemjk66!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>47309GasserMontaser.IslamFalse</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D0358DB2-991F-4BCB-AEF6-7C0495E84F3D</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.19</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T11:24:34.673</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\Islam False.Windows.exe">
+      <PackagePath>Islam False.Windows.exe</PackagePath>
+      <Modified>2015-03-07T11:24:27.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\BackgroundTasks\bin\Debug\BackgroundTasks.winmd">
+      <PackagePath>BackgroundTasks.winmd</PackagePath>
+      <Modified>2015-03-01T20:59:31.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Fonts\buka_puasa_bersama_5.ttf">
+      <PackagePath>Assets\Fonts\buka_puasa_bersama_5.ttf</PackagePath>
+      <Modified>2015-03-02T23:49:58.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Fonts\Gabriola.ttf">
+      <PackagePath>Assets\Fonts\Gabriola.ttf</PackagePath>
+      <Modified>2015-03-02T23:55:36.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\1.png">
+      <PackagePath>Assets\1.png</PackagePath>
+      <Modified>2015-03-02T00:29:55.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\ali.png">
+      <PackagePath>Assets\ali.png</PackagePath>
+      <Modified>2015-02-27T12:54:19.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Assembly logo\About background.png">
+      <PackagePath>Assets\Assembly logo\About background.png</PackagePath>
+      <Modified>2014-10-10T01:28:33.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Assembly logo\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly logo\Assembly 5-1.png</PackagePath>
+      <Modified>2014-10-10T01:18:43.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Assembly logo\Blue.png">
+      <PackagePath>Assets\Assembly logo\Blue.png</PackagePath>
+      <Modified>2014-10-10T01:18:43.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Assembly logo\FBL.png">
+      <PackagePath>Assets\Assembly logo\FBL.png</PackagePath>
+      <Modified>2014-10-13T02:44:35.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Assembly logo\Logo Icon 1.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon 1.png</PackagePath>
+      <Modified>2014-10-10T01:18:43.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Assembly logo\Logo Icon.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon.png</PackagePath>
+      <Modified>2014-10-10T01:18:43.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Assembly logo\Logo Icon2.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon2.png</PackagePath>
+      <Modified>2014-10-10T01:18:43.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Assembly logo\TL.png">
+      <PackagePath>Assets\Assembly logo\TL.png</PackagePath>
+      <Modified>2014-10-13T02:42:14.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-02T01:54:47.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\bible5.png">
+      <PackagePath>Assets\bible5.png</PackagePath>
+      <Modified>2015-02-21T01:29:16.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\brd.png">
+      <PackagePath>Assets\brd.png</PackagePath>
+      <Modified>2015-02-27T12:35:45.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\children.png">
+      <PackagePath>Assets\children.png</PackagePath>
+      <Modified>2015-02-21T01:29:28.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\clenched.png">
+      <PackagePath>Assets\clenched.png</PackagePath>
+      <Modified>2015-02-21T01:29:35.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\dv.png">
+      <PackagePath>Assets\dv.png</PackagePath>
+      <Modified>2015-02-27T12:52:00.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\famousMuslims.png">
+      <PackagePath>Assets\famousMuslims.png</PackagePath>
+      <Modified>2015-02-19T21:49:55.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\female179.png">
+      <PackagePath>Assets\female179.png</PackagePath>
+      <Modified>2015-02-21T01:29:42.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Islamic_3-512.png">
+      <PackagePath>Assets\Islamic_3-512.png</PackagePath>
+      <Modified>2015-02-21T01:29:51.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\jabbar.png">
+      <PackagePath>Assets\jabbar.png</PackagePath>
+      <Modified>2015-02-27T12:56:30.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\kids1.png">
+      <PackagePath>Assets\kids1.png</PackagePath>
+      <Modified>2015-02-21T01:30:00.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-19T18:15:37.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:47:48.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:48:15.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:47:35.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\man64.png">
+      <PackagePath>Assets\man64.png</PackagePath>
+      <Modified>2015-02-21T01:30:08.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\ng.png">
+      <PackagePath>Assets\ng.png</PackagePath>
+      <Modified>2015-02-27T12:43:59.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\on.png">
+      <PackagePath>Assets\on.png</PackagePath>
+      <Modified>2015-02-27T12:58:36.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\oz.png">
+      <PackagePath>Assets\oz.png</PackagePath>
+      <Modified>2015-02-27T12:57:55.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\ozl.png">
+      <PackagePath>Assets\ozl.png</PackagePath>
+      <Modified>2015-02-27T13:04:34.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\pink3.png">
+      <PackagePath>Assets\pink3.png</PackagePath>
+      <Modified>2015-02-27T14:24:47.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\quotes.png">
+      <PackagePath>Assets\quotes.png</PackagePath>
+      <Modified>2015-02-20T00:24:06.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\r.png">
+      <PackagePath>Assets\r.png</PackagePath>
+      <Modified>2015-02-27T12:52:58.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\rio2.png">
+      <PackagePath>Assets\rio2.png</PackagePath>
+      <Modified>2015-02-21T01:30:17.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\salah.png">
+      <PackagePath>Assets\salah.png</PackagePath>
+      <Modified>2015-03-06T15:45:10.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\sdt.png">
+      <PackagePath>Assets\sdt.png</PackagePath>
+      <Modified>2015-02-27T12:45:32.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-19T18:16:55.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:54:45.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:54:55.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:54:35.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:55:08.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:55:50.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:55:20.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:56:04.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-16T21:47:41.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-06T16:53:11.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-06T16:53:35.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-19T18:16:33.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:49:56.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:50:05.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:49:45.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-19T18:15:07.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:47:10.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:47:21.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:46:48.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-19T18:17:51.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-06T16:52:03.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-06T16:52:26.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\swords8.png">
+      <PackagePath>Assets\swords8.png</PackagePath>
+      <Modified>2015-02-21T01:30:25.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\terrorist.png">
+      <PackagePath>Assets\terrorist.png</PackagePath>
+      <Modified>2015-02-21T01:30:33.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\trueFacts.png">
+      <PackagePath>Assets\trueFacts.png</PackagePath>
+      <Modified>2015-02-19T20:30:19.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-19T18:16:04.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:49:09.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:49:23.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T00:48:58.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\wrongFacts.png">
+      <PackagePath>Assets\wrongFacts.png</PackagePath>
+      <Modified>2015-02-19T19:53:30.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\x.png">
+      <PackagePath>Assets\x.png</PackagePath>
+      <Modified>2015-02-27T12:55:34.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\zwl.png">
+      <PackagePath>Assets\zwl.png</PackagePath>
+      <Modified>2015-02-27T12:57:10.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\blue.jpg">
+      <PackagePath>Assets\blue.jpg</PackagePath>
+      <Modified>2015-02-22T18:46:29.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\green.jpg">
+      <PackagePath>Assets\green.jpg</PackagePath>
+      <Modified>2015-02-26T02:34:39.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\pink.jpg">
+      <PackagePath>Assets\pink.jpg</PackagePath>
+      <Modified>2015-02-22T19:03:07.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\pink2.jpg">
+      <PackagePath>Assets\pink2.jpg</PackagePath>
+      <Modified>2015-02-22T18:51:54.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\Assets\yellow.jpg">
+      <PackagePath>Assets\yellow.jpg</PackagePath>
+      <Modified>2015-02-22T19:08:53.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-26T04:35:52.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2015-03-06T17:20:00.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\Amazing Facts.xbf">
+      <PackagePath>Amazing Facts.xbf</PackagePath>
+      <Modified>2015-03-03T00:04:44.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\Fact Correction.xbf">
+      <PackagePath>Fact Correction.xbf</PackagePath>
+      <Modified>2015-03-03T00:04:44.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\Famous Muslims.xbf">
+      <PackagePath>Famous Muslims.xbf</PackagePath>
+      <Modified>2015-03-06T18:08:30.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-03T00:04:44.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\quotes.xbf">
+      <PackagePath>quotes.xbf</PackagePath>
+      <Modified>2015-03-03T00:04:44.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\Wrong Facts.xbf">
+      <PackagePath>Wrong Facts.xbf</PackagePath>
+      <Modified>2015-03-03T00:04:44.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\Islam False.Windows.xr.xml">
+      <PackagePath>Islam False.Windows.xr.xml</PackagePath>
+      <Modified>2015-03-06T17:23:31.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\Microsoft\Applictaions\Islam False\Islam False\Islam False.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-07T11:24:27.480</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
